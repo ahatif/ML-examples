@@ -15,7 +15,7 @@ $ sudo apt-get install liblapack-dev cython
 $ sudo -H pip3 install pybind11
 $ sudo -H pip3 install h5py==2.10.0
 
-# install TensorFlow
+# Install TensorFlow
 $ sudo -H pip3 install tensorflow-2.1.0-cp37-cp37m-linux_armv7l.whl
-# and complete the installation by rebooting
+# reboot
 $ sudo reboot
